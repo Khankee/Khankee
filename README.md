@@ -28,5 +28,4 @@
 [Steam]: https://steamcommunity.com/profiles/76561198101621795/
 [LeetCode]: https://leetcode.com/Khanspii/
 
-⚡ Recent GitHub Activity
 ⚡ GitHub Stats
