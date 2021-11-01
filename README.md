@@ -1,4 +1,4 @@
-### Hi there, I'm Arukhan 👋
+# Hi there, I'm Arukhan 👋
 
 ## I'm a Student, Developer, Gamer and Teamworker!!
  - 🌱 I’m currently learning everything 🤣
