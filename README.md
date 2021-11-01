@@ -1,10 +1,10 @@
 ### Hi there, I'm Arukhan 👋
 
 ## I'm a Student, Developer, Gamer and Nice Teamworker!!
-🌱 I’m currently learning everything 🤣
-👯 I’m looking to collaborate with other content creators
-🥅 2022 Goals: Contribute more to Open Source projects
-📫 How to reach me: Arukhan.kenes@gmail.com
+ - 🌱 I’m currently learning everything 🤣
+ - 👯 I’m looking to collaborate with other content creators
+ - 🥅 2022 Goals: Contribute more to Open Source projects
+ - 📫 How to reach me: Arukhan.kenes@gmail.com
 
 ### Connect with me:
 
