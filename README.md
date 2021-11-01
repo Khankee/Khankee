@@ -24,7 +24,7 @@
 
 
 [Linkedin]: https://www.linkedin.com/in/khanspii/?locale=en_US
-[Devpost]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[Devpost]: https://devpost.com/arukhan-kenes?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 [Steam]: https://steamcommunity.com/profiles/76561198101621795/
 [LeetCode]: https://leetcode.com/Khanspii/
 
