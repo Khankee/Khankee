@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-- [<img align = "left" alt =" Khanspii | LinkedIn" width ="220px" src = "https://github.com/Khanspii/Khanspii/blob/main/img/LinkedIn.png"/>][Linkedin]
+[<img align = "left" alt =" Khanspii | LinkedIn" width ="30px" src = "https://github.com/Khanspii/Khanspii/blob/main/img/LinkedIn.png"/>][Linkedin]
 - [<img align = "left" alt =" Khanspii | Devpost" width ="220px" src = "https://devpost.com/arukhan-kenes?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" />][Devpost]
 - [<img align = "left" alt =" XMGod | Steam" width ="220px" src = "https://steamcommunity.com/profiles/76561198101621795/" />][Steam]
 - [<img align = "left" alt =" Khanspii | LeetCode" width ="220px" src = "https://leetcode.com/Khanspii/" />][LeetCode]
