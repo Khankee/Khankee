@@ -1,7 +1,7 @@
 # Hi there, I'm Arukhan 👋
 
 ## I'm a Student, Developer, Gamer and Teamworker!!
- - 🌱 I’m currently learning everything 🤣
+ - 🌱 I’m currently learning Java 🎓
  - 👯 I’m looking to collaborate with other content creators
  - 🥅 2022 Goals: Contribute more to Open Source projects
  - 📫 How to reach me: Arukhan.kenes@gmail.com
