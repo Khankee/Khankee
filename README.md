@@ -13,14 +13,10 @@
 [<img align = "left" alt =" XMGod | Steam" width ="30px" src = "https://github.com/Khanspii/Khanspii/blob/main/img/Steam.png" />][Steam]
 [<img align = "left" alt =" Khanspii | LeetCode" width ="30px" src = "https://github.com/Khanspii/Khanspii/blob/main/img/LeetCode.png" />][LeetCode]
 
-<br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+---
 
-  <img align="left" alt="Khanspii's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="Khanspii's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Khanspii&show_icons=true&hide_border=true" />
 
 
 [Linkedin]: https://www.linkedin.com/in/khanspii/?locale=en_US
