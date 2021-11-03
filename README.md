@@ -13,16 +13,14 @@
 [<img align = "left" alt =" XMGod | Steam" width ="30px" src = "https://github.com/Khanspii/Khanspii/blob/main/img/Steam.png" />][Steam]
 [<img align = "left" alt =" Khanspii | LeetCode" width ="30px" src = "https://github.com/Khanspii/Khanspii/blob/main/img/LeetCode.png" />][LeetCode]
 
-#### Stats:
+<br>
+### Stats:
 <img align="left" alt="Khanspii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khanspii&show_icons=true&theme=nightowl" />
 
-##### Top Language card:
+<br>
+### Top Language card:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanspii)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khanspii&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanspii&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 [Linkedin]: https://www.linkedin.com/in/khanspii/?locale=en_US
 [Devpost]: https://devpost.com/arukhan-kenes?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
