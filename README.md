@@ -13,7 +13,9 @@
 [<img align = "left" alt =" XMGod | Steam" width ="30px" src = "https://github.com/Khanspii/Khanspii/blob/main/img/Steam.png" />][Steam]
 [<img align = "left" alt =" Khanspii | LeetCode" width ="30px" src = "https://github.com/Khanspii/Khanspii/blob/main/img/LeetCode.png" />][LeetCode]
 
-- <img align="left" alt="Khanspii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Khanspii&hide=contribs,prs" />
+### Stats:
+-
+<img align="left" alt="Khanspii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khanspii&show_icons=true&theme=radical" />
 
 
 [Linkedin]: https://www.linkedin.com/in/khanspii/?locale=en_US
