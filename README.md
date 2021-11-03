@@ -16,6 +16,10 @@
 ### Stats:
 <img align="left" alt="Khanspii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khanspii&show_icons=true&theme=nightowl" />
 
+### Top Language card:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanspii)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [Linkedin]: https://www.linkedin.com/in/khanspii/?locale=en_US
 [Devpost]: https://devpost.com/arukhan-kenes?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
