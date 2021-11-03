@@ -11,15 +11,12 @@
 [<img align = "left" alt =" Khanspii | LinkedIn" width ="30px" src = "https://github.com/Khanspii/Khanspii/blob/main/img/LinkedIn.png"/>][Linkedin]
 [<img align = "left" alt =" Khanspii | Devpost" width ="30px" src = "https://github.com/Khanspii/Khanspii/blob/main/img/DevPost.png" />][Devpost]
 [<img align = "left" alt =" XMGod | Steam" width ="30px" src = "https://github.com/Khanspii/Khanspii/blob/main/img/Steam.png" />][Steam]
-[<img align = "left" alt =" Khanspii | LeetCode" width ="30px" src = "https://github.com/Khanspii/Khanspii/blob/main/img/LeetCode.png" />][LeetCode]
+[<img align = "left" alt =" Khanspii | LeetCode" width ="30px" src = "https://github.com/Khanspii/Khanspii/blob/main/img/LeetCode.png" />][LeetCode]<br>
 
-<br>
-### Stats:
-<img align="left" alt="Khanspii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khanspii&show_icons=true&theme=nightowl" />
+### Stats:<br>
+<img align="left" alt="Khanspii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khanspii&show_icons=true&theme=nightowl" /><br>
 
-<br>
-### Top Language card:
-
+### Top Language card:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanspii&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 [Linkedin]: https://www.linkedin.com/in/khanspii/?locale=en_US
