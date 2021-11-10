@@ -10,7 +10,7 @@
 
 [<img align = "left" alt =" Khankee | LinkedIn" width ="30px" src = "https://github.com/Khankee/Khankee/blob/main/img/LinkedIn.png"/>][Linkedin]
 [<img align = "left" alt =" Khankee | Devpost" width ="30px" src = "https://github.com/Khankee/Khankee/blob/main/img/DevPost.png" />][Devpost]
-[<img align = "left" alt =" XMGod | Steam" width ="30px" src = "https://github.com/Khanspii/Khankee/blob/main/img/Steam.png" />][Steam]
+[<img align = "left" alt =" XMGod | Steam" width ="30px" src = "https://github.com/Khankee/Khankee/blob/main/img/Steam.png" />][Steam]
 [<img align = "left" alt =" Khankee | LeetCode" width ="30px" src = "https://github.com/Khankee/Khankee/blob/main/img/LeetCode.png" />][LeetCode]<br>
 
 ### Stats:<br>
