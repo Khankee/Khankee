@@ -25,7 +25,7 @@
 <br>
 <br>
 ### Top Language card:<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khankee&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khankee&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 [Linkedin]: https://www.linkedin.com/in/khankee/?locale=en_US
 [Devpost]: https://devpost.com/arukhan-kenes?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
