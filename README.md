@@ -30,5 +30,5 @@
 [Linkedin]: https://www.linkedin.com/in/khankee/?locale=en_US
 [Devpost]: https://devpost.com/arukhan-kenes?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 [Steam]: https://steamcommunity.com/profiles/76561198101621795/
-[LeetCode]: https://leetcode.com/Khanspii/
+[LeetCode]: https://leetcode.com/Khankee/
 
