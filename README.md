@@ -1,9 +1,8 @@
 # Hi there, I'm Arukhan 👋
 
 ## I'm a Student, Developer and Teamworker!!
- - 🌱 I’m currently learning Java, JavaScript and React.js 🎓
- - 👯 I’m looking to collaborate with other content creators
- - 🥅 2021 Goals: Contribute more to Open Source projects
+ - 🌱 I’m currently learning Java Spring Framework🎓
+ - 🥅 2022 Goals: Contribute more to Open Source projects
  - 📫 How to reach me: Arukhan.kenes@gmail.com
 
 ### Connect with me:
