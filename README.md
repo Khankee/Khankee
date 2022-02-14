@@ -13,7 +13,7 @@
 [<img align = "left" alt =" Khankee | LeetCode" width ="30px" src = "https://github.com/Khankee/Khankee/blob/main/img/LeetCode.png" />][LeetCode]<br>
 
 ### Stats:<br>
-<img align="left" alt="Arukhan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Khankee&show_icons=true&theme=nightowl" /><br>
+<img align="left" alt="Arukhan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Khankee&show_icons=true&include_all_commits=true&theme=nightowl" /><br>
 <br>
 <br>
 <br>
