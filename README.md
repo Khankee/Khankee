@@ -22,7 +22,6 @@
 <br>
 <br>
 <br>
-<br>
 ### Top Language card:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khankee&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
