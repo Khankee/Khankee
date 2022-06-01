@@ -1,4 +1,4 @@
-# Hi there, I'm Arukhan 👋
+# Hi World! I'm Arukhan 👋
 
 ## I'm a Student, Developer and Teamworker!!
  - 🌱 I’m currently learning Java Spring Boot🎓
@@ -11,13 +11,6 @@
 [<img align = "left" alt =" Khankee | Devpost" width ="30px" src = "https://github.com/Khankee/Khankee/blob/main/img/DevPost.png" />][Devpost]
 [<img align = "left" alt =" XMGod | Steam" width ="30px" src = "https://github.com/Khankee/Khankee/blob/main/img/Steam.png" />][Steam]
 [<img align = "left" alt =" Khankee | LeetCode" width ="30px" src = "https://github.com/Khankee/Khankee/blob/main/img/LeetCode.png" />][LeetCode]<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 ### Top Language card:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khankee&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
