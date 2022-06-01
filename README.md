@@ -1,4 +1,4 @@
-# Hi World! I'm Arukhan 👋
+# Hello World! I'm Arukhan 👋
 
 ## I'm a Student, Developer and Teamworker!!
  - 🌱 I’m currently learning Java Spring Boot🎓
