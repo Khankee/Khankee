@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer and Teamworker!!
  - 🌱 I’m currently learning Java Spring Boot🎓
- - 🥅 2022 Goals: Create more open source projects
+ - 🥅 2022 Goals: Create more open source projects and expand my skills
  - 📫 How to reach me: Arukhan.kenes@gmail.com
 
 ### Connect with me:
