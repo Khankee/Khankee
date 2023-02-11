@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer and Teamworker!
  - 🌱 I’m currently learning Algorithms and Data structures🎓
- - 🥅 2022 Goals: Create more open source projects and expand my skills
+ - 🥅 2023 Goals: Create more open source projects and expand my skills
  - 📫 How to reach me: Arukhan.kenes@gmail.com
 
 ### Connect with me:
