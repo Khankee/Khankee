@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khankee" alt="khankee" /></a> </p>
 
-- 🔭 I’m currently working on **TrainALGO**
+- 🔭 I’m currently working on **Florax.kz**
 
 - 🌱 I’m currently deep diving into **Spring framework, Redis, Kafka**
 
